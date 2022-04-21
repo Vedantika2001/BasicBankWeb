@@ -109,7 +109,6 @@ include 'connectdb.php';
       margin-top: 50px;
       padding-top: 35px;
       ">
-       <p style="font-size: 20px;">❤ Copyright 2022. All rights reserved. Created by Ankit Bhujeja ❤</p>
       </footer>
       
 
